@@ -4,14 +4,14 @@
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | AMD Ryzen 5 1600 AF @ 4.0GHz |
-| Motherboard | ASRock B450M Steel Legend |
-| RAM | 16GB (2 x 8GB) GSkill Ripjaws @ 3200MHz |
-| Audio Chipset | Realtek ALC 892|
+| CPU | AMD Ryzen 5 1600 AF @ 3.7GHz |
+| Motherboard | Gigabyte Aorus B450 PRO |
+| RAM | 16GB (2 x 8GB) GSkill Ripjaws @ 3000MHz |
+| Audio Chipset | Realtek ALC 1220|
 | GPU | SAPPHIRE RX 5500 XT 8GB Nitro+ |
 | OS Disk (SATA) | Samsung 860 Evo 500GB |
 
-**macOS version**: 11.0.1 (20B29)
+**macOS version**: 11.0.1 (20B50)
 **OpenCore version**: 0.6.3  
 
 ## Credits
