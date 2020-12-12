@@ -12,7 +12,7 @@
 | OS Disk (SATA) | Samsung 860 Evo 500GB |
 
 **macOS version**: 11.0.1 (20B50)
-**OpenCore version**: 0.6.3  
+**OpenCore version**: 0.6.4  
 
 ## Credits
  - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
