@@ -52,6 +52,7 @@
 ## Adobe applications fix
 Adobe applications crash on AMD Hackintoshes due to missing intel_fast_memset instructions.  Follow [guide](https://gist.github.com/naveenkrdy/26760ac5135deed6d0bb8902f6ceb6bd) made by XLNC to get it working!  
 If Photoshop still crashes when selecting font, you have to delete `/Applications/Adobe\ Photoshop\ 2020/Adobe\ Photoshop\ 2020.app/Contents/Required/Deep_Font`
+If you're having problems with Photoshop 2021 try this as first command: [guide](https://gist.github.com/naveenkrdy/26760ac5135deed6d0bb8902f6ceb6bd#gistcomment-3513342)
 
 ## Other guides
 **If you have any problems with installation or booting your macOS, kernel panics or another system related issue check OC configuration guide**  
